@@ -1,0 +1,6 @@
+framework module Pods_codecanyon_paywall {
+  umbrella header "Pods-codecanyon_paywall-umbrella.h"
+
+  export *
+  module * { export * }
+}
